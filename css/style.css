@@ -1288,7 +1288,7 @@ button {
   .assure__item + .assure__item { border-top: none; border-left: 1px solid var(--border); padding-top: 0; }
   .assure__item { padding: 0 6px; }
   .assure__icon { width: 30px; height: 30px; margin-bottom: 6px; }
-  .assure__title { font-size: 13.5px; line-height: 1.4; }
+  .assure__title { font-size: 12.5px; line-height: 1.4; letter-spacing: 0; white-space: nowrap; }
   .assure__text { font-size: 11px; line-height: 1.5; margin-top: 4px; }
 
   /* 症状別：写真を左、文章を右の横長カードに */
